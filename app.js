@@ -6,6 +6,7 @@ const notes = require('./notes.js')
 //Add
 //in new branch!!!!
 // in branch after merge.
+//this is branch test 2
 yargs.command({
     command: 'add',
     describe: 'Add a new note',
